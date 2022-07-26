@@ -1,0 +1,21 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="pythondemo.demoapp.views.django" />
+          <option value="pythondemo.pythondemo.urls.demoapp" />
+          <option value="pythondemo.demoapp.admin.demoapp" />
+          <option value="pythondemo.demoapp.models.Topic" />
+          <option value="pythondemo.demoapp.views.demoapp" />
+          <option value="pythondemo.demoapp.forms" />
+          <option value="pythondemo.demoapp.views.num1" />
+          <option value="pythondemo.demoapp.views.num2" />
+          <option value="pythondemo.demoapp.Sum" />
+          <option value="pythondemo.demoapp.views.site" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
